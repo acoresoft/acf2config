@@ -9,6 +9,7 @@
 
 
 - [Mysql安装](mysql/install.md)
+- [MongoDB](docs/mongodbInstall.md)
 
 
 
