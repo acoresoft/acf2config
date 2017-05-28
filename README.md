@@ -1,15 +1,17 @@
-# service-config
-相关服务配置
+# 日常工作总结
+
+## 前言
+-Github 项目地址	<https://github.com/acoresoft/acf2config>
+
+## 目录
+
+- [Linux 介绍](docs/Linux.md)
 
 
-Maven
------------
+- [Mysql安装](mysql/install.md)
+- [MongoDB](docs/mongodbInstall.md)
 
-MySQL
------------
 
-Tomcat
------------
 
 
 
